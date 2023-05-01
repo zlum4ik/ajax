@@ -1,0 +1,7 @@
+positive_login:
+    email: qa.ajax.app.automation@gmail.com
+    password: qa_automation_password
+
+negative_login:
+    email: Random
+    password: Random
